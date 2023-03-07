@@ -1,4 +1,4 @@
-# Initiative: insert Title
+# Initiative: GDPR Compliance
 ## Description
 ## Epics
 * [Epic 1](../../templates/theme/initiatives/epics/epic_template.md)
