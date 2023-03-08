@@ -105,7 +105,8 @@ Training Risk: Mitigation strategies could include developing comprehensive trai
 ## Epics:
 * [Create a Privacy policy content template 
 * [Develop a testing strategy for the privacy policy 
-* [Develop a comprehensive understanding of GDPR requirements 
+* [Develop a comprehensive understanding of GDPR requirements
+* Security and Compliance](Epics/Secuity%20and%20Compliance.md)
 
 ## Test Plan
 How will these be tested?
